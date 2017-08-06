@@ -5,4 +5,4 @@ Repository for my projects.
 ## example of 2D Graphics 
 ![alt text](https://github.com/ZuzanaU/trainingprojects/blob/master/2D%20Graphics/zebra.PNG)
 ## example of 3D Modeling 
-![alt text](https://github.com/ZuzanaU/trainingprojects/blob/master/3D%20Modeling/MyFirstBlenderObject.PNG)
+![alt text](https://github.com/ZuzanaU/trainingprojects/blob/master/3D%20Modeling/rsz_myfirstblenderobject.png)
